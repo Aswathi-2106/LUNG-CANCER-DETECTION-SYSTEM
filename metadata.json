@@ -1,0 +1,6 @@
+{
+  "name": "PulmoVision AI — Lung Cancer Detection System",
+  "description": "Academic Computer Vision & Deep Learning research platform for thoracic CT scan preprocessing, radiomic feature extraction, CNN/Transfer Learning classification, Grad-CAM explainability, and lung nodule segmentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
